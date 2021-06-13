@@ -2,6 +2,10 @@
 The is a game to test your ability to sort the trashes into their bins quickly
 Here is a video to it: https://youtu.be/6U290t5brLA
 
+Some Screenshots:  
+<img src="https://github.com/FairyyGenie/introToIM/blob/main/midtermProject/Screenshotsofgame/begin.png" width="500" height="500"><img src="https://github.com/FairyyGenie/introToIM/blob/main/midtermProject/Screenshotsofgame/game1.png" width="500" height="500"><img src="https://github.com/FairyyGenie/introToIM/blob/main/midtermProject/Screenshotsofgame/game2.png" width="500" height="500"><img src="https://github.com/FairyyGenie/introToIM/blob/main/midtermProject/Screenshotsofgame/game3.png" width="500" height="500"><img src="https://github.com/FairyyGenie/introToIM/blob/main/midtermProject/Screenshotsofgame/final.png" width="500" height="500">
+
+
 ## Logic of the game
 
 The first stage(Introduction):
