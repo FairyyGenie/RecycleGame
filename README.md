@@ -1,5 +1,6 @@
 # RecycleGame
 The is a game to test your ability to sort the trashes into their bins quickly
+Here is a video to it: https://youtu.be/6U290t5brLA
 
 ## Logic of the game
 
